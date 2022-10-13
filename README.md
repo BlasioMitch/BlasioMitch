@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @BlasioMitch
-- 👀 I’m interested in systems engineering
-- 🌱 I’m currently learning Python and bash scripting
-- 💞️ I’m looking to collaborate on python and bash scripting
+- 👀 I’m interested in systems and software engineering
+- 🌱 I’m currently learning Python and bash scripting basically Full stack development
+- 💞️ I’m looking to collaborate on Flask and Python projects
+- I am open to learning more stuff.
 - 📫 How to reach me blaminsi@gmail.com
 
 <!---
