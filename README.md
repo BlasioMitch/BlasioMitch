@@ -36,7 +36,11 @@ Like **Sung Jin-Woo**, I solo through monoliths, microservices, and everything i
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
+![Go](https://img.shields.io/badge/Go-54?style=flat&logo=go&logoColor=%2300ADD8&color=636466)
+![Redis](https://img.shields.io/badge/Redis-4232?style=flat&logo=redis&color=white)
+![bash](https://img.shields.io/badge/gnubash-%234EAA25?style=flat&logo=gnubash&color=%23234EAA25)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&color=yellow)
+![MongoDB](https://img.shields.io/badge/MongoDB-0938?style=flat&logo=mongodb&logoColor=white&color=slateblue)
 ---
 
 ## 🧭 Current Quests
