@@ -16,7 +16,7 @@
 
 # 🗡️ Roronoa Dev — Cutting bugs with backend precision
 
-> "I may get lost in the frontend sea, but I never lose my way with containers."
+> "I may get lost in the shallow waters, but I never lose my way in the abyss."
 
 ## 🏴‍☠️ About Me
 
